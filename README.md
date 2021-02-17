@@ -23,7 +23,17 @@ With the majority of the temperatures falling within 71° to 77° throughout the
 3. With both Standard Deviations, June being 3.25 and December being 3.75, we can see that the dataset clusters faily close together. The low variability helps to support the idea that the weather is stable which would be benificial to opening the shop. With a more stable temperature, the demand for ice cream and surf boards should also be relatively stable.
 
 ### Graphs and data
+Figure 1 <br>
+![June statistics](https://github.com/benlew3/surfs_up/blob/main/images/June%20temp.PNG)<br>
 
+Figure 2 <br>
+![December Statistics](https://github.com/benlew3/surfs_up/blob/main/images/Dec%20temp.PNG)<br>
+
+Figure 3 <br>
+![June bar graph](https://github.com/benlew3/surfs_up/blob/main/images/june%20bar%20graph.PNG)<br>
+
+Figure 4 <br>
+![December bar graph](https://github.com/benlew3/surfs_up/blob/main/images/dec%20bar%20graph.PNG)
 
 ### Challenges and Difficulties
 No real challenges or difficulties encountered. 
